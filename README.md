@@ -12,3 +12,6 @@ Scripts available in install-b via `npm run-script`:
   python
     python main.py
 ```
+
+
+All of the above will print `B is installed.`
