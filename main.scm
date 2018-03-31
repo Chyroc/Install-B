@@ -1,0 +1,1 @@
+(display "B is installed.")

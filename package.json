@@ -1,0 +1,25 @@
+{
+  "name": "install-b",
+  "version": "1.0.0",
+  "description": "I just want to install B.",
+  "main": "index.js",
+  "scripts": {
+    "node": "node main.js",
+    "golang": "go run main.go",
+    "scheme": "scheme < main.scm",
+    "python": "python main.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chyroc/Install-B.git"
+  },
+  "keywords": [
+    "install-b"
+  ],
+  "author": "Chyroc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chyroc/Install-B/issues"
+  },
+  "homepage": "https://github.com/Chyroc/Install-B#readme"
+}
