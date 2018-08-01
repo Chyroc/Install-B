@@ -1,3 +1,3 @@
 fn main() {
-	println!("b is installed.");
+	println!("B is installed.");
 }
