@@ -11,6 +11,8 @@ Scripts available in install-b via `npm run-script`:
     scheme < main.scm
   python
     python main.py
+  rust
+    rustc main.rs -o /tmp/main_rust && /tmp/main_rust
 ```
 
 
